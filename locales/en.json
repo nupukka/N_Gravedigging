@@ -1,0 +1,10 @@
+{
+    "Blipname": "Graveyard",
+    "TextuiOption": "[E] Dig",
+    "TargetOption": "Dig",
+    "ProgressbarLabel": "Digging...",
+    "NotificationTitle": "Gravedigging",
+    "NotEnoughPolices": "Not enough polices online!",
+    "CooldownNotify": "This grave is just digged!",
+    "FailNotify": "You failed!"
+}

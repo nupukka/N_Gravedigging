@@ -1,0 +1,10 @@
+{
+    "Blipname": "Hautausmaa",
+    "TextuiOption": "[E] Kaiva",
+    "TargetOption": "Kaiva",
+    "ProgressbarLabel": "Kaivetaan...",
+    "NotificationTitle": "Haudankaivuu",
+    "NotEnoughPolices": "Ei tarpeeksi poliiseja paikalla!",
+    "CooldownNotify": "Tämä hauta on juuri kaivettu!",
+    "FailNotify": "Epäonnistuit!"
+}
